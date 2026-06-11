@@ -22,7 +22,7 @@ O sistema permite:
 
 ### Diagrama ER
 
-![DER_MaisSaude](ProjetoJavaClinicaMaisSaude/Docs/DER_MaisSaude.png)
+![DER_MaisSaude]([ProjetoJavaClinicaMaisSaude/Docs/DER_MaisSaude.png ](https://github.com/Git-Fabiano-Git/ProjetoJavaClinicaMaisSaude/blob/main/docs/DER_MaisSaude.png?raw=true))
 
 
 ---
